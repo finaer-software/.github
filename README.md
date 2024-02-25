@@ -1,0 +1,2 @@
+# .github
+Finaer software
