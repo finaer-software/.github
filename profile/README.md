@@ -1,10 +1,10 @@
-# Welcome to Finaer Company Repository
+# Welcome to Finaer Repository
 
 ![Finaer Logo](https://finaer.es/wp-content/uploads/elementor/thumbs/logo-pw21cs5wmecu2d41v3lxh5kg97o2eadk7fkhp2tv0o.png)
 
 ## About Us
 
-Welcome to Finaer Company's private GitHub repository. Finaer ensures the rental of your property 🏘️ 
+Welcome to Finaer's private GitHub repository. Finaer ensures the rental of your property 🏘️ 
 
 ## Accessing Our Endpoints
 
@@ -18,9 +18,9 @@ This repository contains private endpoints and resources related to our services
 
 ## Contact Us
 
-If you have any questions, feedback, or inquiries, please feel free to reach out to us:
+If you have any technical questions, feedback, or inquiries, please feel free to reach out to us:
 
-- **Email:** [info@finaer.es]
+- **Email:** [tech@nash21.io]
 - **Website:** [Finaer Company Website](https://finaer.es/)
 
 We look forward to collaborating with you!
