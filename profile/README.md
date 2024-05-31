@@ -1,6 +1,6 @@
 # Welcome to Finaer Repository
 
-![Finaer Logo](https://finaer.es/wp-content/uploads/elementor/thumbs/logo-pw21cs5wmecu2d41v3lxh5kg97o2eadk7fkhp2tv0o.png)
+![Finaer Logo](https://cdn.prod.website-files.com/65d49a282bb3fc645e12c8c7/661d1f6fb14b9ce6834f9bb3_Vectors-Wrapper.svg)
 
 ## About Us
 
